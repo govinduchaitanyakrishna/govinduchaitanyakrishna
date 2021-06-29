@@ -2,7 +2,7 @@ Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Govindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govinduchaitanyakrishna1231/)](https://www.linkedin.com/in/govinduchaitanyakrishna1231/) 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-gray)](https://stackoverflow.com/users/16326988/chaitanya-krishna-govindu/)
-https://img.shields.io/twitter/url?logo=govindu&logoColor=blue&style=social&url=https%3A%2F%2Ftwitter.com%2Fgovindu1231
+[![Twitter Badge](https://img.shields.io/badge/-govindu-blue?style=flat-square&logo=Twitter&logoColor=white=https://twitter.com/@govindu1231)](https://twitter.com/@govindu1231)
 
 
 Hi, I'm Govindu Chaitanya Krishna, a passionate Full-Stack developer and a technical enthusiast.
