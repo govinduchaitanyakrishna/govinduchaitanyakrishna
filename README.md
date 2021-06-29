@@ -9,4 +9,4 @@ Hi, I'm Govindu Chaitanya Krishna, a passionate Full-Stack developer and a techn
 
 The depths of technology are huge and gigantic but extremely marvelous, spreading its wings all across the world. Learning technologies, developing, and designing makes me feel my job overwhelming. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in ux), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(Azure),database(MongoDB,Mysql).
 
-📫 You can reach me:  <a href="govinduchaitanya3@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
+📫 You can reach me:  <a href="mailto:govinduchaitanya3@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
