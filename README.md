@@ -1,4 +1,7 @@
-Hi Developers 👋
+<h1 align = "center">Hello, I'm Govindu Chaitanya Krishna 👋</h1>
+<h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA</h3>
+
+</br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Govindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govinduchaitanyakrishna1231/)](https://www.linkedin.com/in/govinduchaitanyakrishna1231/) 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-gray)](https://stackoverflow.com/users/16326988/chaitanya-krishna-govindu/)
