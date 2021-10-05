@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Govindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govinduchaitanyakrishna1231/)](https://www.linkedin.com/in/govinduchaitanyakrishna1231/) 
 [![Website Badge](https://img.shields.io/badge/StackOverflow-gray)](https://stackoverflow.com/users/16326988/chaitanya-krishna-govindu/)
 [![Twitter Badge](https://img.shields.io/badge/-govindu-blue?style=flat-square&logo=Twitter&logoColor=white=https://twitter.com/@govindu1231)](https://twitter.com/@govindu1231)
-[![Twitter Badge](https://img.shields.io/badge/-govindu-blue?style=flat-square&logo=instagram&logoColor=white=https://instagram.com/https://www.instagram.com/govinduchaitanyakrishna/)](https://instagram.com/https://www.instagram.com/govinduchaitanyakrishna/)
+[![Twitter Badge](https://img.shields.io/badge/-govindu-blue?style=flat-square&logo=instagram&logoColor=white=https://instagram.com/https://www.instagram.com/govinduchaitanyakrishna/)](https://instagram.com/govinduchaitanyakrishna/)
 
 
 Hi, I'm Govindu Chaitanya Krishna, a passionate Full-Stack developer and a technical enthusiast.
