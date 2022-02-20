@@ -35,5 +35,9 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=govinduchaitanyakrishna&theme=react-dark&area=true)
 
+[![Saiteja's github stats](https://github-readme-stats.vercel.app/api?username=govinduchaitanyakrishna)](https://github.com/govinduchaitanyakrishna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govinduchaitanyakrishna&layout=compact)](https://github.com/govinduchaitanyakrishna/github-readme-stats)
+
+
 <!--
 **govindu chaitanya krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
