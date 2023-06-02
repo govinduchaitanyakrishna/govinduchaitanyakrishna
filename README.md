@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Govindu Chaitanya Krishna 👋</h1>
-<h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA</h3>
+<h3 align = "center">FRONT END DEVELOPER</h3>
 
 </br>
 
