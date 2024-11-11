@@ -9,9 +9,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-govindu-blue?style=flat-square&logo=instagram&logoColor=white=https://instagram.com/https://www.instagram.com/govinduchaitanyakrishna/)](https://instagram.com/govinduchaitanyakrishna/)
 
 
-Hi, I'm Govindu Chaitanya Krishna, a passionate Full-Stack developer and a technical enthusiast.
+Hi, I'm Govindu Chaitanya Krishna, a passionate Frontend developer and a technical enthusiast.
 
-The depths of technology are huge and gigantic but extremely marvelous, spreading its wings all across the world. Learning technologies, developing, and designing makes me feel my job overwhelming. I've been lucky to learn, code and develop alongside some talented teams and a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, java), design(prototyping, wireframes in ux), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Nosql).
+Working in a competitive environment, using my technical skills and analytical approach to the best of my ability, to help the organization achieve solutions, helping the organization grow and, in the process, enhance my overall development.
 
 📫 You can reach me:  <a href="mailto:govinduchaitanya3@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
